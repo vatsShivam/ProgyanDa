@@ -1,25 +1,24 @@
-.section2_wrapper{
-   background-color:#343A40;
-   min-height: 60px;
-   margin-top: 30px;
-   display: flex;
-   flex-direction: row;
-   justify-content: space-between;
+.shivam .ant-tabs-nav-list {
+    justify-content: space-between;
+    width:100%;
+    padding: 5px;
+    background-color:#152239;
 }
-.section2_header{
-    color:white;
+
+.shivam .ant-tabs-tab {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.shivam .ant-tabs-tab-btn {
     font-weight: bold;
-    padding-left: 20px;
-    padding-top:20px
+    font-size: 25px;
+    color:white;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
 }
-.underline{
-    border-top:2px solid white;
-    margin-left: 20px;
-    width: 100px;
-    padding-bottom: 10px;
-}
-.section2_image{
-    padding: 14px;
-    height: 60px;
-    margin-right: 90px;
+
+.shivam .ant-tabs-tab-btn .anticon {
+    vertical-align: baseline;
 }

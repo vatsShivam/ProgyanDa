@@ -1,22 +1,23 @@
-.image_wrap{
-    display: flex;
-    justify-content: center;
-}
+
 .profile_pic{
     border-radius: 50%;
-    width: 50px;
-    height:50px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    width: 150px;
+    height:150px;
 }
 .user_name{
-    font-size: 32px;
+    font-size:28px;
     color:gray;
-    text-align: center;
+    margin-left:30px;
     
 }
 .user_address{
-    font-size: 28px;
+    font-size: 24px;
     color:gray;
-    text-align: center;
+    margin-left:30px;
+}
+@media(max-width:600px){
+    .link{
+        margin-right: 5px;
+    }
+  
 }
