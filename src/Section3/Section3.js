@@ -1,4 +1,4 @@
-import { Card, Col, Row } from "antd";
+
 import "./Section3.css";
 function Section3() {
   return (

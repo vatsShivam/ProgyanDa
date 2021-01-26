@@ -1,4 +1,4 @@
-import { Card } from "react-bootstrap";
+
 import { Tabs } from "antd";
 import "./Section2.css";
 import Section3 from "../Section3/Section3";
