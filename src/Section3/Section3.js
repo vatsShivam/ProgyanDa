@@ -2,15 +2,15 @@
 import "./Section3.css";
 function Section3() {
   return (
-    <div class="rows">
-      <div class="columns">
+    <div className="rows">
+      <div className="columns">
         <div className="h">
           <img
             src="https://online.king.edu/wp-content/uploads/2019/09/Psychology-of-Social-Media-Guide-FB-KING.png"
             style={{ width: "100%" }}
             alt="img"
           />
-          <div class="overlay ">Instagram Pic</div>
+          <div className="overlay ">Instagram Pic</div>
         </div>
         <div className="h">
           <img
@@ -18,7 +18,7 @@ function Section3() {
             style={{ width: "100%" }}
             alt="img"
           />
-          <div class="overlay ">InstagramPic</div>
+          <div className="overlay ">InstagramPic</div>
         </div>
         <div className="h">
           <img
@@ -26,17 +26,17 @@ function Section3() {
             style={{ width: "100%" }}
             alt="img"
           />
-          <div class="overlay ">Instagram Pic</div>
+          <div className="overlay ">Instagram Pic</div>
         </div>
       </div>
-      <div class="columns">
+      <div className="columns">
         <div className="h">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhEpqUjyndQgJUds5QrO9146AQ-x5zvf-uXg&usqp=CAU"
             style={{ width: "100%" }}
             alt="img"
           />
-          <div class="overlay ">Instagram Pic</div>
+          <div className="overlay ">Instagram Pic</div>
         </div>
         <div className="h">
           <img
@@ -44,7 +44,7 @@ function Section3() {
             style={{ width: "100%" }}
             alt="img"
           />
-          <div class="overlay ">InstagramPic</div>
+          <div className="overlay ">InstagramPic</div>
         </div>
         <div className="h">
           <img
@@ -52,21 +52,21 @@ function Section3() {
             style={{ width: "100%" }}
             alt="img"
           />
-          <div class="overlay ">Instagram Pic</div>
+          <div className="overlay ">Instagram Pic</div>
         </div>
       </div>
-      <div class="columns">
+      <div className="columns">
         <div className="h">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxg5hDw0jaeCIvDTLOnZ0epjNpBGLdtHE4Ow&usqp=CAU"
             style={{ width: "100%" }}
             alt="img"
           />
-          <div class="overlay ">Instagram Pic</div>
+          <div className="overlay ">Instagram Pic</div>
         </div>
         <div className="h">
           <img src="social.jpeg" style={{ width: "100%" }} alt="img"/>
-          <div class="overlay ">InstagramPic</div>
+          <div className="overlay ">InstagramPic</div>
         </div>
         <div className="h">
           <img
@@ -74,7 +74,7 @@ function Section3() {
             style={{ width: "100%" }}
             alt="img"
           />
-          <div class="overlay ">Instagram Pic</div>
+          <div className="overlay ">Instagram Pic</div>
         </div>
       </div>
     </div>
