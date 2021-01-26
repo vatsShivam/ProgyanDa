@@ -10,13 +10,11 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
-
-    runs-on: self-hosted
-
+ deploy:
+    runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [ 12.x, 14.x,]
+        node-version: [12.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
@@ -25,6 +23,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm i
+    - run: npm install
     - run: CI=false && npm run build
     - run: npm test
