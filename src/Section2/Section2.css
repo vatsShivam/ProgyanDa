@@ -11,8 +11,8 @@
 }
 @media(max-width:600px){
     .shivam .ant-tabs-nav-list {
-        justify-content: space-between;
-        width:97%;
+       
+        width:90%;
         padding: 3px;
         background-color:#152239;
     }
