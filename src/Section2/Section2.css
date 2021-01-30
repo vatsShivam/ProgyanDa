@@ -9,7 +9,15 @@
     margin-left: 10px;
     margin-right: 10px;
 }
+@media(max-width:600px){
+    .shivam .ant-tabs-nav-list {
+        justify-content: space-between;
+        width:97%;
+        padding: 3px;
+        background-color:#152239;
+    }
 
+}
 .shivam .ant-tabs-tab-btn {
     font-weight: bold;
     font-size: 25px;
