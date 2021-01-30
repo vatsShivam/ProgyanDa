@@ -3,7 +3,7 @@ import "./Section1.css";
 function Section1() {
   return (
     <Card style={{ border: "none", padding: "20px" }}>
-      <div class="d-flex flex-row justify-content-center align-items-center">
+      <div class="sectionBody">
         <div class="p-2">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQ1-r1ErStyOBsxHAWDOKUFfZ2cjr9JXk7g&usqp=CAU"

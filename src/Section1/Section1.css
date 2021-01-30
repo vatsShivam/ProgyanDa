@@ -1,4 +1,11 @@
+.sectionBody{
+   
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
 
+}
 .profile_pic{
     border-radius: 50%;
     width: 150px;
@@ -19,5 +26,8 @@
     .link{
         margin-right: 5px;
     }
-  
+    .sectionBody{
+        display:flex;
+     flex-direction: column;
+    }
 }
