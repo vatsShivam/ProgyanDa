@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ProgyanDa/static/css/main.03367f8e.chunk.css",
-    "main.js": "/ProgyanDa/static/js/main.d5847fbc.chunk.js",
-    "main.js.map": "/ProgyanDa/static/js/main.d5847fbc.chunk.js.map",
+    "main.css": "/ProgyanDa/static/css/main.2b4da471.chunk.css",
+    "main.js": "/ProgyanDa/static/js/main.d8ac3c8f.chunk.js",
+    "main.js.map": "/ProgyanDa/static/js/main.d8ac3c8f.chunk.js.map",
     "runtime-main.js": "/ProgyanDa/static/js/runtime-main.1359c176.js",
     "runtime-main.js.map": "/ProgyanDa/static/js/runtime-main.1359c176.js.map",
     "static/css/2.85bd228a.chunk.css": "/ProgyanDa/static/css/2.85bd228a.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.2df1a991.chunk.js.map": "/ProgyanDa/static/js/3.2df1a991.chunk.js.map",
     "index.html": "/ProgyanDa/index.html",
     "static/css/2.85bd228a.chunk.css.map": "/ProgyanDa/static/css/2.85bd228a.chunk.css.map",
-    "static/css/main.03367f8e.chunk.css.map": "/ProgyanDa/static/css/main.03367f8e.chunk.css.map",
+    "static/css/main.2b4da471.chunk.css.map": "/ProgyanDa/static/css/main.2b4da471.chunk.css.map",
     "static/js/2.91290761.chunk.js.LICENSE.txt": "/ProgyanDa/static/js/2.91290761.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1359c176.js",
     "static/css/2.85bd228a.chunk.css",
     "static/js/2.91290761.chunk.js",
-    "static/css/main.03367f8e.chunk.css",
-    "static/js/main.d5847fbc.chunk.js"
+    "static/css/main.2b4da471.chunk.css",
+    "static/js/main.d8ac3c8f.chunk.js"
   ]
 }
