@@ -1,0 +1,24 @@
+.shivam .ant-tabs-nav-list {
+    justify-content: space-between;
+    width:100%;
+    padding: 5px;
+    background-color:#152239;
+}
+
+.shivam .ant-tabs-tab {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.shivam .ant-tabs-tab-btn {
+    font-weight: bold;
+    font-size: 25px;
+    color:white;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.shivam .ant-tabs-tab-btn .anticon {
+    vertical-align: baseline;
+}
